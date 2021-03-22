@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb" if-exists="true" version="2.1">
+      
+    <!--
+
+Este archivo ha sido generado por la arquitectura JavaTM para la implantación de la referencia de enlace (JAXB) XML v2.3.0 
+Visite <a href="https://javaee.github.io/jaxb-v2/">https://javaee.github.io/jaxb-v2/</a> 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2021.03.21 a las 10:42:54 AM VET 
+
+  -->
+      
+    <bindings xmlns:tns="http://0023931702-one-off.sap.com/Y13IOD93Y_" if-exists="true" scd="x-schema::tns">
+            
+        <schemaBindings map="false">
+                  
+            <package name="com.sap.app.ncg"/>
+                
+        </schemaBindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantCreateConfirmationMessage_sync">
+                  
+            <class ref="com.sap.app.ncg.ConsultantCreateConfirmationMessageSync"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantCreateRequestMessage_sync">
+                  
+            <class ref="com.sap.app.ncg.ConsultantCreateRequestMessageSync"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByConfirmationMessage_sync">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByConfirmationMessageSync"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestMessage_sync">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestMessageSync"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantReadByIDQueryMessage_sync">
+                  
+            <class ref="com.sap.app.ncg.ConsultantReadByIDQueryMessageSync"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantReadByIDResponseMessage_sync">
+                  
+            <class ref="com.sap.app.ncg.ConsultantReadByIDResponseMessageSync"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantUpdateConfirmationMessage_sync">
+                  
+            <class ref="com.sap.app.ncg.ConsultantUpdateConfirmationMessageSync"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantUpdateRequestMessage_sync">
+                  
+            <class ref="com.sap.app.ncg.ConsultantUpdateRequestMessageSync"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantCreateConfirmation">
+                  
+            <class ref="com.sap.app.ncg.ConsultantCreateConfirmation"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantCreateRequest">
+                  
+            <class ref="com.sap.app.ncg.ConsultantCreateRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByConfirmation">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByConfirmation"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequest">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByChangedBy">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByChangedBy"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByChangedOn">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByChangedOn"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByCreatedBy">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByCreatedBy"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByCreationOn">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByCreationOn"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByLastName">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByLastName"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByLocation">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByLocation"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByName">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByName"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByStatus">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByStatus"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantQueryByElementsSimpleByRequestSelectionByid">
+                  
+            <class ref="com.sap.app.ncg.ConsultantQueryByElementsSimpleByRequestSelectionByid"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantReadByIDQuery">
+                  
+            <class ref="com.sap.app.ncg.ConsultantReadByIDQuery"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantReadByIDResponse">
+                  
+            <class ref="com.sap.app.ncg.ConsultantReadByIDResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ConsultantUpdateRequest">
+                  
+            <class ref="com.sap.app.ncg.ConsultantUpdateRequest"/>
+                
+        </bindings>
+          
+    </bindings>
+      
+    <bindings xmlns:tns="http://sap.com/xi/AP/Common/Global" if-exists="true" scd="x-schema::tns">
+            
+        <schemaBindings map="false">
+                  
+            <package name="com.sap.app.ncg"/>
+                
+        </schemaBindings>
+            
+        <bindings if-exists="true" scd="tns:StandardFaultMessage">
+                  
+            <class ref="com.sap.app.ncg.StandardFaultMessage"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ExchangeFaultData">
+                  
+            <class ref="com.sap.app.ncg.ExchangeFaultData"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:StandardFaultMessageExtension">
+                  
+            <class ref="com.sap.app.ncg.StandardFaultMessageExtension"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ExchangeLogData">
+                  
+            <class ref="com.sap.app.ncg.ExchangeLogData"/>
+                
+        </bindings>
+          
+    </bindings>
+      
+    <bindings xmlns:tns="http://sap.com/xi/AP/Common/GDT" if-exists="true" scd="x-schema::tns">
+            
+        <schemaBindings map="false">
+                  
+            <package name="com.sap.app.ncg"/>
+                
+        </schemaBindings>
+            
+        <bindings if-exists="true" scd="~tns:BusinessDocumentBasicMessageHeader">
+                  
+            <class ref="com.sap.app.ncg.BusinessDocumentBasicMessageHeader"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:BusinessDocumentMessageID">
+                  
+            <class ref="com.sap.app.ncg.BusinessDocumentMessageID"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:Log">
+                  
+            <class ref="com.sap.app.ncg.Log"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:LogItem">
+                  
+            <class ref="com.sap.app.ncg.LogItem"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:LogItemCategoryCode">
+                  
+            <class ref="com.sap.app.ncg.LogItemCategoryCode"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:LogItemNotePlaceholderSubstitutionList">
+                  
+            <class ref="com.sap.app.ncg.LogItemNotePlaceholderSubstitutionList"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:MEDIUM_Description">
+                  
+            <class ref="com.sap.app.ncg.MEDIUMDescription"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ObjectID">
+                  
+            <class ref="com.sap.app.ncg.ObjectID"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:QueryProcessingConditions">
+                  
+            <class ref="com.sap.app.ncg.QueryProcessingConditions"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ResponseProcessingConditions">
+                  
+            <class ref="com.sap.app.ncg.ResponseProcessingConditions"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:UUID">
+                  
+            <class ref="com.sap.app.ncg.UUID"/>
+                
+        </bindings>
+          
+    </bindings>
+    
+</bindings>
